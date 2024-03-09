@@ -22,17 +22,17 @@
 
 **Senaryo:**
 
-. https://gelecegiyazanlar.turkcell.com.tr/ linkine girilir.
-. "Giriş Yap" seçeneğine tıklanır.
-. "Aşağıdaki hesaplarınızı kullanarak da giriş yapabilirsiniz" yazan metinin altından "Google" butonu seçilir .
-. Google hesabı browserda login durumdaysa giriş yapması değilse Twitter a login formu gelmesi.
-. Giriş yaptıktan sonra 2Factor Dogrulama kodu girilir.
-. https://gelecegiyazanlar.turkcell.com.tr/benim-sayfam açılır
+. https://gelecegiyazanlar.turkcell.com.tr/ linkine girilir.<br>
+. "Giriş Yap" seçeneğine tıklanır.<br>
+. "Aşağıdaki hesaplarınızı kullanarak da giriş yapabilirsiniz" yazan metinin altından "Google" butonu seçilir .<br>
+. Google hesabı browserda login durumdaysa giriş yapması değilse Twitter a login formu gelmesi.<br>
+. Giriş yaptıktan sonra 2Factor Dogrulama kodu girilir.<br>
+. https://gelecegiyazanlar.turkcell.com.tr/benim-sayfam açılır<br>
 
 
 **Oluşan Durum:**
 
-. Googlela giriş butonuna tıklandığında hiçbir uyarı vermeden ve giriş işlemi sonuçlanmadan https://gelecegiyazanlar.turkcell.com.tr/ sayfasına yönlendiriyor.Aynı sorun siteye kaydolurken de yaşanıyor.
+. Googlela giriş butonuna tıklandığında hiçbir uyarı vermeden ve giriş işlemi sonuçlanmadan https://gelecegiyazanlar.turkcell.com.tr/ sayfasına yönlendiriyor.Aynı sorun siteye kaydolurken de yaşanıyor.<br>
 
 
 **Beklenen Sonuç:**
