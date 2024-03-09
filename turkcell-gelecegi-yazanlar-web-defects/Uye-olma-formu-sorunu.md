@@ -22,11 +22,11 @@
 
 **Senaryo:**
 
-. https://gelecegiyazanlar.turkcell.com.tr/ linkine girilir.
-. "Giriş Yap" seçeneğine tıklanır.
-. "Hesabınız yok mu?" metinin yanındaki üye ol butonuna basılır.
-. https://gelecegiyazanlar.turkcell.com.tr/user/register adresine yönlendirilir.
-. Üye olma formunun sorunsuz geldiği görüntülenir.
+. https://gelecegiyazanlar.turkcell.com.tr/ linkine girilir.<br>
+. "Giriş Yap" seçeneğine tıklanır.<br>
+. "Hesabınız yok mu?" metinin yanındaki üye ol butonuna basılır.<br>
+. https://gelecegiyazanlar.turkcell.com.tr/user/register adresine yönlendirilir.<br>
+. Üye olma formunun sorunsuz geldiği görüntülenir.<br>
 
 
 **Oluşan Durum:**
