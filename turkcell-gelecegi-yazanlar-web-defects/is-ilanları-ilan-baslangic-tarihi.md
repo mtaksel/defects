@@ -22,10 +22,10 @@
 
 **Senaryo:**
 
-. https://gelecegiyazanlar.turkcell.com.tr/ linkine girilir.
-. "İş İlanları" seçeneğine tıklanır.
-. "İLAN BAŞLANGIÇ TARİHİ" bölümündeki "Bugünün İlanları" , "Son 3 Günün İlanları" , "Son 1 Haftanın İlanları" , "Son 1 Yılın Ilanları" filtreleme butonlarına tıklanır
-. Tıklanan filtreleme seçeneğine göre ilanlar varsa ekrana getirilir yoksa ilan yoktur diye uyarı verir.
+. https://gelecegiyazanlar.turkcell.com.tr/ linkine girilir.<br>
+. "İş İlanları" seçeneğine tıklanır.<br>
+. "İLAN BAŞLANGIÇ TARİHİ" bölümündeki "Bugünün İlanları" , "Son 3 Günün İlanları" , "Son 1 Haftanın İlanları" , "Son 1 Yılın Ilanları" filtreleme butonlarına tıklanır<br>
+. Tıklanan filtreleme seçeneğine göre ilanlar varsa ekrana getirilir yoksa ilan yoktur diye uyarı verir.<br>
 
 
 **Oluşan Durum:**
