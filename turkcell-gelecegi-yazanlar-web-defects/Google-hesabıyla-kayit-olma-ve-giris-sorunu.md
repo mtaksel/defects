@@ -1,5 +1,3 @@
-:imagesdir: images
-
 =  Google ile kayıt olma ve giriş sorunu
 
 *Test cihazı:* Intel i9-10850K - NVIDIA GEforce RTX 3070 - 16gb RAM
