@@ -22,12 +22,12 @@
 
 **Senaryo:**
 
-. https://gelecegiyazanlar.turkcell.com.tr/ linkine girilir.
-. "Giriş Yap" seçeneğine tıklanır.
-. "Aşağıdaki hesaplarınızı kullanarak da giriş yapabilirsiniz" yazan metinin altından "Twitter" butonu seçilir .
-. Twitter hesabı browserda login durumdaysa giriş yapması değilse Twitter a login formu gelmesi.
-. Giriş yaptıktan sonra 2Factor Dogrulama kodu girilir.
-. https://gelecegiyazanlar.turkcell.com.tr/benim-sayfam açılır
+. https://gelecegiyazanlar.turkcell.com.tr/ linkine girilir.<br>
+. "Giriş Yap" seçeneğine tıklanır.<br>
+. "Aşağıdaki hesaplarınızı kullanarak da giriş yapabilirsiniz" yazan metinin altından "Twitter" butonu seçilir .<br>
+. Twitter hesabı browserda login durumdaysa giriş yapması değilse Twitter a login formu gelmesi.<br>
+. Giriş yaptıktan sonra 2Factor Dogrulama kodu girilir.<br>
+. https://gelecegiyazanlar.turkcell.com.tr/benim-sayfam açılır<br>
 
 
 **Oluşan Durum:**
