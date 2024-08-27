@@ -17,7 +17,7 @@
 
 **Ekran Görüntüleri**
 
-![](mindset-web-defects\images\kisa-bolumler-sorunu.png) 
+![](images/kisa-bolumler-sorunu.png) 
 
 **Beklenen Sonuç:**
 

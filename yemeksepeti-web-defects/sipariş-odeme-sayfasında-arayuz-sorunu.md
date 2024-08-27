@@ -20,7 +20,7 @@
 
 **Ekran Görüntüleri**
 
-![](images\siparis_odeme.png) 
+![](images/siparis_odeme.png) 
 
 **Beklenen Sonuç:**
 

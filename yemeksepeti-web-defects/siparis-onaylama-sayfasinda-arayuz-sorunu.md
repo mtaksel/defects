@@ -20,7 +20,7 @@
 
 **Ekran Görüntüleri**
 
-![](images\siparis_onay.png) 
+![](images/siparis_onay.png) 
 
 **Beklenen Sonuç:**
 

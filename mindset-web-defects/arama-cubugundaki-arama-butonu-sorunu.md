@@ -18,7 +18,7 @@
 
 **Ekran Görüntüleri**
 
-![](images\arama-cubugu-tepkisizlik.gif) 
+![](images/arama-cubugu-tepkisizlik.gif) 
 
 **Beklenen Sonuç:**
 

@@ -17,7 +17,7 @@
 
 **Ekran Görüntüleri**
 
-![](images\iki-tane-arama-cubugu-sorunu.png) 
+![](images/iki-tane-arama-cubugu-sorunu.png) 
 
 **Beklenen Sonuç:**
 
