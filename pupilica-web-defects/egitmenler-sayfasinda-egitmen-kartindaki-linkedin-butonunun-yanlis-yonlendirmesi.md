@@ -15,6 +15,7 @@
 3) Eğitmenler butonuna tıklanır.<br>
 4) Eğitmenler sayfasında yönlendirildiği doğrulanır.<br>
 5) Sayfa aşağıya kaydırılır ve "  Barış Gürkaş  " isimli eğitmenin kartı doğrulanır.<br>
+6) "  Barış Gürkaş  " isimli eğitmenin Linkedin Buttonuna basılır<br>
 
 
 **Ekran Görüntüleri**
