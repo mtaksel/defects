@@ -21,11 +21,11 @@
 
 - Game Crash While Claiming Rewards for 'Those Bears Up There' Quest
 
-![](media/those-bears-up-there-daily-quest-defect-media1.mp4)
+![](media/those-bears-up-there-daily-quest-defect-1.mp4)
 
 - Re-Login, Character Falling with Fall Damage
 
-![](media/those-bears-up-there-daily-quest-defect-media2.mp4)
+![](media/those-bears-up-there-daily-quest-defect-2.mp4)
 
 **Expected Result:**
 
