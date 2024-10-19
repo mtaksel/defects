@@ -1,13 +1,12 @@
 **Crash When Trying to Claim Rewards for the 'Those Bears Up There' Daily Quest**
 
+**Description**
+
+- After completing the quest, when the player clicks the button to claim the rewards, the game freezes.
+
 **Preconditions:**
 
 - Must have a level 85 character and purchased World Of Warcraft game time.
-
-**Scenario:**
-
-- Open the game World of Warcraft and log in with your character.
-
 
 **Steps:**
 
