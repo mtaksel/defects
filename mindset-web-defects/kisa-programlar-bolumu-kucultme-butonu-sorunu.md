@@ -1,35 +1,40 @@
-**Kısa Programlar Bolumu Kucultme Butonu Sorunu**
+# Kısa Programlar Bolumu Kucultme Butonu Sorunu
+<!-- standardized-defect-report -->
 
-**Ön Koşullar:**
+| Field | Value |
+| --- | --- |
+| Defect ID | DEF-MS-004 |
+| Status | Documented |
+| Type | Functional |
+| Severity | Not recorded |
+| Priority | Not recorded |
+| Reproducibility | Not recorded |
+| Platform | Web |
+| Evidence | Included in the report |
 
+[Back to Software Defect Portfolio](../README.md)
+
+## Ön Koşullar
 -
 
-**Aşama:**
-
+## Aşama
 - Ana Sayfa
 
-**Senaryo:**
-
-1) https://www.mindset.com.tr/ linkine girilir.<br>
-2) Sayfa aşağıya doğru kaydırılır<br>
-3) Kısa Programlar Bölümü görüntülenir.<br>
-4) Kısa Programlar yazısı yanındaki "Kücültme Butonu"na tıklanır<br>
-
-
-**Ekran Görüntüleri**
-
+## Senaryo
+1. https://www.mindset.com.tr/ linkine girilir.
+2. Sayfa aşağıya doğru kaydırılır
+3. Kısa Programlar Bölümü görüntülenir.
+4. Kısa Programlar yazısı yanındaki "Kücültme Butonu"na tıklanır
+## Ekran Görüntüleri
 ![](images/kisa-programlar-kucultme-butonu-sorunu.gif) 
 
-**Beklenen Sonuç:**
-
+## Beklenen Sonuç
 - Ana Sayfadaki Kısa Programlar bölümünde bulunan kücültme butonuna basıldığında , Kısa Programlarda görünen eğitimler gizlenmelidir.
 
-**Oluşan Durum:**
-
+## Oluşan Durum
 - Küçültme butonu tepkisiz.
 
-**Test Ortamı**
-
+## Test Ortamı
 *Test cihazı:* Intel i9-10850K - NVIDIA GEforce RTX 3070 - 16gb RAM
 
 *Test cihazı sürümü:* Windows 11 23H2 IS derlemesi 22631.4037
@@ -39,3 +44,11 @@
 *Uygulamanın test edildiği browser:* Firefox 129.0.2 (64 bit)
 
 *Sorunun Tekrarlanma Saati:* 29.08.2024 , 16:45
+
+## Impact
+
+Not formally assessed in the original test session.
+
+## Workaround
+
+No workaround was documented during the original test session.

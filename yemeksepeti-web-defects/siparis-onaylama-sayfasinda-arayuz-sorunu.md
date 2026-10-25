@@ -1,16 +1,26 @@
 
-**Sipariş Onaylama Sayfası Arayüz Sorunu**
+<!-- standardized-defect-report -->
 
-**Ön Koşullar:**
+| Field | Value |
+| --- | --- |
+| Defect ID | DEF-YS-001 |
+| Status | Documented |
+| Type | UI/UX |
+| Severity | Not recorded |
+| Priority | Not recorded |
+| Reproducibility | Not recorded |
+| Platform | Web |
+| Evidence | Included in the report |
 
+[â† Back to Software Defect Portfolio](../README.md)
+# Sipariş Onaylama Sayfası Arayüz Sorunu
+## Ön Koşullar
 -Yemeksepeti hesabının olması
 
-**Aşama:**
-
+## Aşama
 - Sipariş Onaylama
 
-**Senaryo:**
-
+## Senaryo
 . https://www.yemeksepeti.com linkine girilir.<br>
 . Bir restorant seçilir.<br>
 . Bir ürüne tıklanır .<br>
@@ -18,20 +28,16 @@
 . "Sepete Ekle" butonuna tıklanır.<br>
 . "Sepeti Onayla" butonuna tıklanır.<br>
 
-**Ekran Görüntüleri**
-
+## Ekran Görüntüleri
 ![](images/siparis_onay.png) 
 
-**Beklenen Sonuç:**
-
+## Beklenen Sonuç
 - Sipariş onay sayfasında "Kapıya bırak" , "Varınca beni ara" , "Zili çal" kısımları Türkçe dilinde olmalı
 
-**Oluşan Durum:**
-
+## Oluşan Durum
 - Sipariş onay sayfasında "Kapıya bırak" , "Varınca beni ara" , "Zili çal" kısımları "Leave it at the door" , "Call me upon arrival" , "Ring the doorbell" şeklinde ingilizce yazılmış
 
-**Test Ortamı**
-
+## Test Ortamı
 *Test cihazı:* Intel i9-10850K - NVIDIA GEforce RTX 3070 - 16gb RAM
 
 *Test cihazı sürümü:* Windows 11 23H2 IS derlemesi 22631.3810
@@ -41,3 +47,11 @@
 *Uygulamanın test edildiği browser:* Firefox 127.0.2 (64 bit)
 
 *Sorunun Tekrarlanma Saati:* 01.07.2024 , 15:34
+
+## Impact
+
+Not formally assessed in the original test session.
+
+## Workaround
+
+No workaround was documented during the original test session.

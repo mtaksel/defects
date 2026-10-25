@@ -1,4 +1,18 @@
-=  Ilan baslangıç tarihi bölümündeki filtreleme butonlarının çalışmaması
+# =  Ilan baslangıç tarihi bölümündeki filtreleme butonlarının çalışmaması
+<!-- standardized-defect-report -->
+
+| Field | Value |
+| --- | --- |
+| Defect ID | DEF-TG-003 |
+| Status | Documented |
+| Type | Functional |
+| Severity | Not recorded |
+| Priority | Not recorded |
+| Reproducibility | Not recorded |
+| Platform | Web |
+| Evidence | Included in the report |
+
+[â† Back to Software Defect Portfolio](../README.md)
 
 *Test cihazı:* Intel i9-10850K - NVIDIA GEforce RTX 3070 - 16gb RAM
 
@@ -10,31 +24,34 @@
 
 *Sorunun Tekrarlanma Saati:* 07.03.2024 , 105:46
 
-**Ön Koşullar:**
-
+## Ön Koşullar
 -
 
-**Aşama:**
-
+## Aşama
 - Filtreleme
 
-**Senaryo:**
-
+## Senaryo
 . https://gelecegiyazanlar.turkcell.com.tr/ linkine girilir.<br>
 . "İş İlanları" seçeneğine tıklanır.<br>
 . "İLAN BAŞLANGIÇ TARİHİ" bölümündeki "Bugünün İlanları" , "Son 3 Günün İlanları" , "Son 1 Haftanın İlanları" , "Son 1 Yılın Ilanları" filtreleme butonlarına tıklanır<br>
 . Tıklanan filtreleme seçeneğine göre ilanlar varsa ekrana getirilir yoksa ilan yoktur diye uyarı verir.<br>
 
 
-**Oluşan Durum:**
-
+## Oluşan Durum
 . Filtreleme butonuna basıldığında "The website encountered an unexpected error. Please try again later." 500 kodu hatası görülmüştür
 
 
-**Beklenen Sonuç:**
-
+## Beklenen Sonuç
 - İş İlanlarının filtrelenmesi, eğer iş ilanı yoksa uyarı mesajı vermesi.
 
 ![](images/is-ilani-anasayfa.png)
 ![](images/İs-İlanlari-filtreleme.png)
 ![](images/Is-ilani-sorunu.png)
+
+## Impact
+
+Not formally assessed in the original test session.
+
+## Workaround
+
+No workaround was documented during the original test session.

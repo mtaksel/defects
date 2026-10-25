@@ -1,4 +1,18 @@
-=  Facebook ile kayıt olma ve giriş sorunu
+# =  Facebook ile kayıt olma ve giriş sorunu
+<!-- standardized-defect-report -->
+
+| Field | Value |
+| --- | --- |
+| Defect ID | DEF-TG-001 |
+| Status | Documented |
+| Type | Functional |
+| Severity | Not recorded |
+| Priority | Not recorded |
+| Reproducibility | Not recorded |
+| Platform | Web |
+| Evidence | Included in the report |
+
+[â† Back to Software Defect Portfolio](../README.md)
 
 *Test cihazı:* Intel i9-10850K - NVIDIA GEforce RTX 3070 - 16gb RAM
 
@@ -10,16 +24,13 @@
 
 *Sorunun Tekrarlanma Saati:* 04.03.2024 , 12:24
 
-**Ön Koşullar:**
-
+## Ön Koşullar
 -Facebook Hesabının tarayıcıda login olması
 
-**Aşama:**
-
+## Aşama
 - Giriş/Kayıt Olmak
 
-**Senaryo:**
-
+## Senaryo
 . https://gelecegiyazanlar.turkcell.com.tr/ linkine girilir.<br>
 . "Giriş Yap" seçeneğine tıklanır.<br>
 . "Aşağıdaki hesaplarınızı kullanarak da giriş yapabilirsiniz" yazan metinin altından "Facebook" butonu seçilir .<br>
@@ -28,16 +39,22 @@
 . https://gelecegiyazanlar.turkcell.com.tr/benim-sayfam açılır<br>
 
 
-**Oluşan Durum:**
-
+## Oluşan Durum
 . Facebookla giriş butonuna tıklandığında "Özellik Kullanılmıyor<br>
 Facebook Girişi bu uygulama için şu anda kullanılamıyor" Uyarısı alınıyor ve sitedeki hesaba giriş yapılmıyor.Aynı sorun siteye kaydolurken de yaşanıyor.<br>
 
 
-**Beklenen Sonuç:**
-
+## Beklenen Sonuç
 - Facebookla giriş butonuna tıklandığında, hesaba giriş yapması ve https://gelecegiyazanlar.turkcell.com.tr/benim-sayfam a yönlendirmesi.
 
 ![](images/anasayfa.png)
 ![](images/Facebook-giris.png)
 ![](images/facebook-uyari.png)
+
+## Impact
+
+Not formally assessed in the original test session.
+
+## Workaround
+
+No workaround was documented during the original test session.
