@@ -1,18 +1,18 @@
 # Eğitmenler Sayfasindaki Egitmen Kartlarinin Orantılı Olmama Sorunu
 <!-- standardized-defect-report -->
 
-| Field | Value |
+| Alan | Değer |
 | --- | --- |
-| Defect ID | DEF-PU-005 |
-| Status | Documented |
-| Type | UI/UX |
-| Severity | Not recorded |
-| Priority | Not recorded |
-| Reproducibility | Not recorded |
+| Hata Kimliği | DEF-PU-005 |
+| Durum | Raporlandı |
+| Tür | UI/UX |
+| Önem Derecesi | Kaydedilmedi |
+| Öncelik | Kaydedilmedi |
+| Tekrarlanabilirlik | Kaydedilmedi |
 | Platform | Web |
-| Evidence | Included in the report |
+| Kanıt | Raporda yer alıyor |
 
-[Back to Software Defect Portfolio](../../README.md)
+[Ana sayfaya dön](../../README.md) · [English version](../../English-Reports/pupilica-web-defects/instructor-cards-have-inconsistent-proportions.md)
 
 ## Ön Koşullar
 -
@@ -26,8 +26,8 @@
 3. Eğitmenler butonuna tıklanır.
 4. Eğitmenler sayfasında yönlendirildiği doğrulanır.
 ## Ekran Görüntüleri
-![](images/egitmenler-sayfasi-tasarim-hatasi-1.png) 
-![](images/egitmenler-sayfasi-tasarim-hatasi-2.png) 
+![](images/egitmenler-sayfasi-tasarim-hatasi-1.png)
+![](images/egitmenler-sayfasi-tasarim-hatasi-2.png)
 
 
 ## Beklenen Sonuç
@@ -47,10 +47,10 @@
 
 *Sorunun Tekrarlanma Saati:* 06.09.2024 , 21:24
 
-## Impact
+## Etki
 
-Not formally assessed in the original test session.
+İlk test oturumunda resmi bir etki değerlendirmesi yapılmadı.
 
-## Workaround
+## Geçici Çözüm
 
-No workaround was documented during the original test session.
+İlk test oturumunda geçici çözüm belgelenmedi.

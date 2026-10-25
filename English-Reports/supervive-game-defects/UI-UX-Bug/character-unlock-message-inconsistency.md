@@ -12,7 +12,7 @@
 | Platform | PC Game |
 | Evidence | Included in the report |
 
-[Back to Software Defect Portfolio](../../../README.md)
+[Back to portfolio](../../../README.md) · [Türkçe sürüm](../../../Turkish-Reports/supervive-game-defects/UI-UX-Bug/character-unlock-message-inconsistency.md)
 
 ## Description
 - When a new character is unlocked as a reward, the name of the character and the message confirming the unlock do not fit properly on the screen.

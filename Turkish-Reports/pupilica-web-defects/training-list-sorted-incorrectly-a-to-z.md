@@ -1,24 +1,24 @@
 # Eğitimler Sayfasındaki Eğitimlerin A-Z'Ye Yanlış Filtrelenmesi
 <!-- standardized-defect-report -->
 
-| Field | Value |
+| Alan | Değer |
 | --- | --- |
-| Defect ID | DEF-PU-002 |
-| Status | Documented |
-| Type | Functional |
-| Severity | Not recorded |
-| Priority | Not recorded |
-| Reproducibility | Not recorded |
+| Hata Kimliği | DEF-PU-002 |
+| Durum | Raporlandı |
+| Tür | Fonksiyonel |
+| Önem Derecesi | Kaydedilmedi |
+| Öncelik | Kaydedilmedi |
+| Tekrarlanabilirlik | Kaydedilmedi |
 | Platform | Web |
-| Evidence | Included in the report |
+| Kanıt | Raporda yer alıyor |
 
-[Back to Software Defect Portfolio](../../README.md)
+[Ana sayfaya dön](../../README.md) · [English version](../../English-Reports/pupilica-web-defects/training-list-sorted-incorrectly-a-to-z.md)
 
 ## Ön Koşullar
 -
 
 ## Aşama
-- Eğitimler Sayfası 
+- Eğitimler Sayfası
 
 ## Senaryo
 1. https://pupilica.com/ linkine girilir.
@@ -28,7 +28,7 @@
 5. Eğitim filtreleme seçeneğinden A-Z seçilir.
 6. Eğitimlerin A-Z'ye filtrelendiği kontrol edilir.
 ## Ekran Görüntüleri
-![](images/egitimler-sayfasindaki-egitimlerin-a-z-yanlis-filtrelenmesi.gif) 
+![](images/egitimler-sayfasindaki-egitimlerin-a-z-yanlis-filtrelenmesi.gif)
 
 ## Beklenen Sonuç
 - Eğitmenler, A-Z'ye göre filtreleme yapıldığında, isimlerine göre alfabetik sırada düzgün bir şekilde listelenmelidir
@@ -47,10 +47,10 @@
 
 *Sorunun Tekrarlanma Saati:* 06.09.2024 , 20:34
 
-## Impact
+## Etki
 
-Not formally assessed in the original test session.
+İlk test oturumunda resmi bir etki değerlendirmesi yapılmadı.
 
-## Workaround
+## Geçici Çözüm
 
-No workaround was documented during the original test session.
+İlk test oturumunda geçici çözüm belgelenmedi.

@@ -12,7 +12,7 @@
 | Platform | PC Game |
 | Evidence | Included in the report |
 
-[Back to Software Defect Portfolio](../../../README.md)
+[Back to portfolio](../../../README.md) · [Türkçe sürüm](../../../Turkish-Reports/supervive-game-defects/Localization-Bug/language-inconsistency-in-character-selection-interface.md)
 
 ## Description
 - When the game's language is set to Turkish, the character selection interface still displays in English, leading to inconsistency in the user experience.

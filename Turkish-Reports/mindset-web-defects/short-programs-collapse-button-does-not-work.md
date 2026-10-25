@@ -1,18 +1,18 @@
 # Kısa Programlar Bolumu Kucultme Butonu Sorunu
 <!-- standardized-defect-report -->
 
-| Field | Value |
+| Alan | Değer |
 | --- | --- |
-| Defect ID | DEF-MS-004 |
-| Status | Documented |
-| Type | Functional |
-| Severity | Not recorded |
-| Priority | Not recorded |
-| Reproducibility | Not recorded |
+| Hata Kimliği | DEF-MS-004 |
+| Durum | Raporlandı |
+| Tür | Fonksiyonel |
+| Önem Derecesi | Kaydedilmedi |
+| Öncelik | Kaydedilmedi |
+| Tekrarlanabilirlik | Kaydedilmedi |
 | Platform | Web |
-| Evidence | Included in the report |
+| Kanıt | Raporda yer alıyor |
 
-[Back to Software Defect Portfolio](../../README.md)
+[Ana sayfaya dön](../../README.md) · [English version](../../English-Reports/mindset-web-defects/short-programs-collapse-button-does-not-work.md)
 
 ## Ön Koşullar
 -
@@ -26,7 +26,7 @@
 3. Kısa Programlar Bölümü görüntülenir.
 4. Kısa Programlar yazısı yanındaki "Kücültme Butonu"na tıklanır
 ## Ekran Görüntüleri
-![](images/kisa-programlar-kucultme-butonu-sorunu.gif) 
+![](images/kisa-programlar-kucultme-butonu-sorunu.gif)
 
 ## Beklenen Sonuç
 - Ana Sayfadaki Kısa Programlar bölümünde bulunan kücültme butonuna basıldığında , Kısa Programlarda görünen eğitimler gizlenmelidir.
@@ -45,10 +45,10 @@
 
 *Sorunun Tekrarlanma Saati:* 29.08.2024 , 16:45
 
-## Impact
+## Etki
 
-Not formally assessed in the original test session.
+İlk test oturumunda resmi bir etki değerlendirmesi yapılmadı.
 
-## Workaround
+## Geçici Çözüm
 
-No workaround was documented during the original test session.
+İlk test oturumunda geçici çözüm belgelenmedi.

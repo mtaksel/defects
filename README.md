@@ -1,191 +1,145 @@
 # Software Defect Portfolio
 
-> A curated collection of reproducible software defect reports covering web, mobile web, and PC game testing.
+> 34 documented defects. Every report is available in English and Turkish, with the same defect ID and supporting evidence.
 
 [![Manual Testing](https://img.shields.io/badge/Testing-Manual-2563EB?style=flat-square)](#testing-scope)
-[![Web Testing](https://img.shields.io/badge/Platform-Web-0EA5E9?style=flat-square)](#testing-scope)
-[![Mobile Web](https://img.shields.io/badge/Platform-Mobile_Web-8B5CF6?style=flat-square)](#testing-scope)
-[![Game Testing](https://img.shields.io/badge/Testing-Games-E11D48?style=flat-square)](#testing-scope)
-[![Bug Reports](https://img.shields.io/badge/Documentation-Bug_Reports-16A34A?style=flat-square)](#reporting-standard)
+[![Bilingual Reports](https://img.shields.io/badge/Reports-EN_%2F_TR-16A34A?style=flat-square)](#bilingual-report-catalog)
+
+## Choose your language / Dil seçimi
+
+| English | Türkçe |
+| --- | --- |
+| [Browse all 34 English reports](./English-Reports/README.md) | [34 raporun Türkçe sürümlerini görüntüle](./Turkish-Reports/README.md) |
+
+Both folders contain the **same 34 defects**, not different collections. There are **68 language versions** in total. Each report links directly to its counterpart. Original screenshots, GIFs, and video links are preserved and shared between translations.
+
+Her iki klasörde de **aynı 34 hata raporu** bulunur. Toplam **68 dil sürümü** vardır. Her rapordan diğer dildeki sürümüne geçilebilir; ekran görüntüleri, GIF'ler ve video bağlantıları ortaktır.
 
 ## About this repository
 
-This repository demonstrates my approach to exploratory testing, defect discovery, reproducible bug reporting, and evidence-based QA documentation. Each report is written to help developers and product teams understand the problem, reproduce it efficiently, assess its impact, and verify a future fix.
+This portfolio demonstrates exploratory testing, defect discovery, reproducible bug reporting, and evidence-based QA documentation across web, mobile web, and PC games.
 
-The reports include examples from real web, mobile web, and PC game test sessions. Product names are used only to identify the tested environment; this repository is an independent QA portfolio and is not affiliated with the listed companies.
-
-## Browse by language
-
-| Report language | Reports | Collection |
-| --- | ---: | --- |
-| English | 5 | [Browse English reports](./English-Reports/) |
-| Turkish | 29 | [Browse Turkish reports](./Turkish-Reports/) |
-| **Total** | **34** | |
+Product names identify tested environments only. This independent QA portfolio is not affiliated with the listed companies. Reports document historical observations; they do not assert that the defects remain present today. Translations preserve recorded test details and leave unrecorded severity, priority, and reproducibility values explicit.
 
 ## Testing scope
 
-| Product | Language | Platform | Report collection |
+| Product | Platform | Unique defects | English | Türkçe |
+| --- | --- | ---: | --- | --- |
+| Hepsiburada | Mobile Web | 6 | [EN](./English-Reports/hepsiburada-mobile-web-defects/) | [TR](./Turkish-Reports/hepsiburada-mobile-web-defects/) |
+| LinkedIn | Web | 1 | [EN](./English-Reports/linkedin-web-defects/) | [TR](./Turkish-Reports/linkedin-web-defects/) |
+| Mindset | Web | 6 | [EN](./English-Reports/mindset-web-defects/) | [TR](./Turkish-Reports/mindset-web-defects/) |
+| Pupilica | Web | 9 | [EN](./English-Reports/pupilica-web-defects/) | [TR](./Turkish-Reports/pupilica-web-defects/) |
+| Supervive | PC Game | 4 | [EN](./English-Reports/supervive-game-defects/) | [TR](./Turkish-Reports/supervive-game-defects/) |
+| Turkcell Geleceği Yazanlar | Web | 5 | [EN](./English-Reports/turkcell-gelecegi-yazanlar-web-defects/) | [TR](./Turkish-Reports/turkcell-gelecegi-yazanlar-web-defects/) |
+| World of Warcraft: Cataclysm Classic | PC Game | 1 | [EN](./English-Reports/world-of-warcraft-cataclysm-classic-game-defects/) | [TR](./Turkish-Reports/world-of-warcraft-cataclysm-classic-game-defects/) |
+| Yemeksepeti | Web | 2 | [EN](./English-Reports/yemeksepeti-web-defects/) | [TR](./Turkish-Reports/yemeksepeti-web-defects/) |
+
+## Bilingual report catalog
+
+The ID identifies a single defect across both languages. Reports remain grouped by product and classified by their recorded defect type inside each report.
+
+### Hepsiburada
+
+| ID | Defect | English | Türkçe |
 | --- | --- | --- | --- |
-| Hepsiburada | Turkish | Mobile Web | [View reports](./Turkish-Reports/hepsiburada-mobile-web-defects/) |
-| LinkedIn | Turkish | Web | [View reports](./Turkish-Reports/linkedin-web-defects/) |
-| Mindset | Turkish | Web | [View reports](./Turkish-Reports/mindset-web-defects/) |
-| Pupilica | Turkish | Web | [View reports](./Turkish-Reports/pupilica-web-defects/) |
-| Supervive | English | PC Game | [View reports](./English-Reports/supervive-game-defects/) |
-| Turkcell Geleceği Yazanlar | Turkish | Web | [View reports](./Turkish-Reports/turkcell-gelecegi-yazanlar-web-defects/) |
-| World of Warcraft: Cataclysm Classic | English | PC Game | [View reports](./English-Reports/world-of-warcraft-cataclysm-classic-game-defects/) |
-| Yemeksepeti | Turkish | Web | [View reports](./Turkish-Reports/yemeksepeti-web-defects/) |
+| DEF-HB-001 | Payment options panel cannot be closed | [Read](./English-Reports/hepsiburada-mobile-web-defects/payment-options-panel-cannot-be-closed.md) | [Oku](./Turkish-Reports/hepsiburada-mobile-web-defects/payment-options-panel-cannot-be-closed.md) |
+| DEF-HB-002 | Cannot return to the product page after the login redirect | [Read](./English-Reports/hepsiburada-mobile-web-defects/cannot-return-to-product-page-after-login-redirect.md) | [Oku](./Turkish-Reports/hepsiburada-mobile-web-defects/cannot-return-to-product-page-after-login-redirect.md) |
+| DEF-HB-003 | Product description text is not readable | [Read](./English-Reports/hepsiburada-mobile-web-defects/product-description-text-is-not-readable.md) | [Oku](./Turkish-Reports/hepsiburada-mobile-web-defects/product-description-text-is-not-readable.md) |
+| DEF-HB-004 | Campaign information panel cannot be closed | [Read](./English-Reports/hepsiburada-mobile-web-defects/campaign-information-panel-cannot-be-closed.md) | [Oku](./Turkish-Reports/hepsiburada-mobile-web-defects/campaign-information-panel-cannot-be-closed.md) |
+| DEF-HB-005 | Product return conditions text is not readable | [Read](./English-Reports/hepsiburada-mobile-web-defects/product-return-conditions-text-is-not-readable.md) | [Oku](./Turkish-Reports/hepsiburada-mobile-web-defects/product-return-conditions-text-is-not-readable.md) |
+| DEF-HB-006 | Review publishing criteria page has no exit option | [Read](./English-Reports/hepsiburada-mobile-web-defects/review-publishing-criteria-page-has-no-exit-option.md) | [Oku](./Turkish-Reports/hepsiburada-mobile-web-defects/review-publishing-criteria-page-has-no-exit-option.md) |
 
-## Defect catalog
+### LinkedIn
 
-The portfolio currently contains **34 documented defects**. Reports are grouped below by platform, product, and defect type so reviewers can quickly navigate to relevant examples.
+| ID | Defect | English | Türkçe |
+| --- | --- | --- | --- |
+| DEF-LI-001 | Cannot view additional congratulation templates | [Read](./English-Reports/linkedin-web-defects/cannot-view-additional-congratulation-templates.md) | [Oku](./Turkish-Reports/linkedin-web-defects/cannot-view-additional-congratulation-templates.md) |
 
-| Platform | Functional | UI/UX | Localization | Crash / Blocking | Total |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| Web | 18 | 5 | 0 | 0 | 23 |
-| Mobile Web | 4 | 2 | 0 | 0 | 6 |
-| PC Game | 0 | 2 | 2 | 1 | 5 |
-| **Total** | **22** | **9** | **2** | **1** | **34** |
+### Mindset
 
-### Mobile Web
+| ID | Defect | English | Türkçe |
+| --- | --- | --- | --- |
+| DEF-MS-001 | Navigation search button is inactive | [Read](./English-Reports/mindset-web-defects/navigation-search-button-is-inactive.md) | [Oku](./Turkish-Reports/mindset-web-defects/navigation-search-button-is-inactive.md) |
+| DEF-MS-002 | Duplicate search bar on the training page | [Read](./English-Reports/mindset-web-defects/duplicate-search-bar-on-training-page.md) | [Oku](./Turkish-Reports/mindset-web-defects/duplicate-search-bar-on-training-page.md) |
+| DEF-MS-003 | Training search does not filter the grid view | [Read](./English-Reports/mindset-web-defects/training-search-does-not-filter-grid-view.md) | [Oku](./Turkish-Reports/mindset-web-defects/training-search-does-not-filter-grid-view.md) |
+| DEF-MS-004 | Short programs collapse button does not work | [Read](./English-Reports/mindset-web-defects/short-programs-collapse-button-does-not-work.md) | [Oku](./Turkish-Reports/mindset-web-defects/short-programs-collapse-button-does-not-work.md) |
+| DEF-MS-005 | Short programs section is not centered | [Read](./English-Reports/mindset-web-defects/short-programs-section-is-not-centered.md) | [Oku](./Turkish-Reports/mindset-web-defects/short-programs-section-is-not-centered.md) |
+| DEF-MS-006 | Training search does not filter the list view | [Read](./English-Reports/mindset-web-defects/training-search-does-not-filter-list-view.md) | [Oku](./Turkish-Reports/mindset-web-defects/training-search-does-not-filter-list-view.md) |
 
-#### Hepsiburada — 6 reports
+### Pupilica
 
-**Functional**
+| ID | Defect | English | Türkçe |
+| --- | --- | --- | --- |
+| DEF-PU-001 | Homepage slideshow does not advance automatically | [Read](./English-Reports/pupilica-web-defects/homepage-slideshow-does-not-advance-automatically.md) | [Oku](./Turkish-Reports/pupilica-web-defects/homepage-slideshow-does-not-advance-automatically.md) |
+| DEF-PU-002 | Training list is sorted incorrectly from A to Z | [Read](./English-Reports/pupilica-web-defects/training-list-sorted-incorrectly-a-to-z.md) | [Oku](./Turkish-Reports/pupilica-web-defects/training-list-sorted-incorrectly-a-to-z.md) |
+| DEF-PU-003 | Training list is sorted incorrectly from Z to A | [Read](./English-Reports/pupilica-web-defects/training-list-sorted-incorrectly-z-to-a.md) | [Oku](./Turkish-Reports/pupilica-web-defects/training-list-sorted-incorrectly-z-to-a.md) |
+| DEF-PU-004 | Instructor LinkedIn link redirects incorrectly | [Read](./English-Reports/pupilica-web-defects/instructor-linkedin-link-redirects-incorrectly.md) | [Oku](./Turkish-Reports/pupilica-web-defects/instructor-linkedin-link-redirects-incorrectly.md) |
+| DEF-PU-005 | Instructor cards have inconsistent proportions | [Read](./English-Reports/pupilica-web-defects/instructor-cards-have-inconsistent-proportions.md) | [Oku](./Turkish-Reports/pupilica-web-defects/instructor-cards-have-inconsistent-proportions.md) |
+| DEF-PU-006 | Instructor card is missing a LinkedIn link | [Read](./English-Reports/pupilica-web-defects/instructor-card-is-missing-linkedin-link.md) | [Oku](./Turkish-Reports/pupilica-web-defects/instructor-card-is-missing-linkedin-link.md) |
+| DEF-PU-007 | Skills filter contains an unnamed option | [Read](./English-Reports/pupilica-web-defects/skills-filter-contains-unnamed-option.md) | [Oku](./Turkish-Reports/pupilica-web-defects/skills-filter-contains-unnamed-option.md) |
+| DEF-PU-008 | Event type filter is unresponsive | [Read](./English-Reports/pupilica-web-defects/event-type-filter-is-unresponsive.md) | [Oku](./Turkish-Reports/pupilica-web-defects/event-type-filter-is-unresponsive.md) |
+| DEF-PU-009 | Video and text overlap on the About page | [Read](./English-Reports/pupilica-web-defects/about-page-layout-defect.md) | [Oku](./Turkish-Reports/pupilica-web-defects/about-page-layout-defect.md) |
 
-- [Payment options panel cannot be closed](./Turkish-Reports/hepsiburada-mobile-web-defects/payment-options-panel-cannot-be-closed.md)
-- [Unable to return to the product page after the login redirect](./Turkish-Reports/hepsiburada-mobile-web-defects/cannot-return-to-product-page-after-login-redirect.md)
-- [Campaign information panel cannot be closed](./Turkish-Reports/hepsiburada-mobile-web-defects/campaign-information-panel-cannot-be-closed.md)
-- [Review publishing criteria page has no exit option](./Turkish-Reports/hepsiburada-mobile-web-defects/review-publishing-criteria-page-has-no-exit-option.md)
+### Supervive
 
-**UI/UX**
+| ID | Defect | English | Türkçe |
+| --- | --- | --- | --- |
+| DEF-SV-001 | Language Inconsistency in Character Selection Interface | [Read](./English-Reports/supervive-game-defects/Localization-Bug/language-inconsistency-in-character-selection-interface.md) | [Oku](./Turkish-Reports/supervive-game-defects/Localization-Bug/language-inconsistency-in-character-selection-interface.md) |
+| DEF-SV-002 | Inconsistent Language Display in Game Map Themes | [Read](./English-Reports/supervive-game-defects/Localization-Bug/map-theme-language-inconsistency.md) | [Oku](./Turkish-Reports/supervive-game-defects/Localization-Bug/map-theme-language-inconsistency.md) |
+| DEF-SV-003 | Character Unlock Screen Text Message Not Fit On Screen | [Read](./English-Reports/supervive-game-defects/UI-UX-Bug/character-unlock-message-inconsistency.md) | [Oku](./Turkish-Reports/supervive-game-defects/UI-UX-Bug/character-unlock-message-inconsistency.md) |
+| DEF-SV-004 | Map theme description capitalization inconsistency | [Read](./English-Reports/supervive-game-defects/UI-UX-Bug/map-theme-description-capitalization-inconsistency.md) | [Oku](./Turkish-Reports/supervive-game-defects/UI-UX-Bug/map-theme-description-capitalization-inconsistency.md) |
 
-- [Product description text is not readable](./Turkish-Reports/hepsiburada-mobile-web-defects/product-description-text-is-not-readable.md)
-- [Product return conditions text is not readable](./Turkish-Reports/hepsiburada-mobile-web-defects/product-return-conditions-text-is-not-readable.md)
+### Turkcell Geleceği Yazanlar
 
-### Web
+| ID | Defect | English | Türkçe |
+| --- | --- | --- | --- |
+| DEF-TG-001 | Facebook registration and login fail | [Read](./English-Reports/turkcell-gelecegi-yazanlar-web-defects/facebook-registration-and-login-issue.md) | [Oku](./Turkish-Reports/turkcell-gelecegi-yazanlar-web-defects/facebook-registration-and-login-issue.md) |
+| DEF-TG-002 | Google registration and login do not complete | [Read](./English-Reports/turkcell-gelecegi-yazanlar-web-defects/google-registration-and-login-issue.md) | [Oku](./Turkish-Reports/turkcell-gelecegi-yazanlar-web-defects/google-registration-and-login-issue.md) |
+| DEF-TG-003 | Job posting start-date filters return a server error | [Read](./English-Reports/turkcell-gelecegi-yazanlar-web-defects/job-posting-start-date-filters-do-not-work.md) | [Oku](./Turkish-Reports/turkcell-gelecegi-yazanlar-web-defects/job-posting-start-date-filters-do-not-work.md) |
+| DEF-TG-004 | Twitter registration and login return an unexpected error | [Read](./English-Reports/turkcell-gelecegi-yazanlar-web-defects/twitter-registration-and-login-issue.md) | [Oku](./Turkish-Reports/turkcell-gelecegi-yazanlar-web-defects/twitter-registration-and-login-issue.md) |
+| DEF-TG-005 | Registration form exposes an internal identifier and misaligned fields | [Read](./English-Reports/turkcell-gelecegi-yazanlar-web-defects/registration-form-issue.md) | [Oku](./Turkish-Reports/turkcell-gelecegi-yazanlar-web-defects/registration-form-issue.md) |
 
-#### LinkedIn — 1 report
+### World of Warcraft: Cataclysm Classic
 
-**Functional**
+| ID | Defect | English | Türkçe |
+| --- | --- | --- | --- |
+| DEF-WOW-001 | Crash When Trying to Claim Rewards for the 'Those Bears Up There' Daily Quest | [Read](./English-Reports/world-of-warcraft-cataclysm-classic-game-defects/Crash-Blocking%20Bug/those-bears-up-there-daily-quest-defect.md) | [Oku](./Turkish-Reports/world-of-warcraft-cataclysm-classic-game-defects/Crash-Blocking%20Bug/those-bears-up-there-daily-quest-defect.md) |
 
-- [Unable to display additional congratulation templates](./Turkish-Reports/linkedin-web-defects/cannot-view-additional-congratulation-templates.md)
+### Yemeksepeti
 
-#### Mindset — 6 reports
-
-**Functional**
-
-- [Navigation search button is inactive](./Turkish-Reports/mindset-web-defects/navigation-search-button-is-inactive.md)
-- [Duplicate search bar on the training page](./Turkish-Reports/mindset-web-defects/duplicate-search-bar-on-training-page.md)
-- [Training search does not filter the grid view](./Turkish-Reports/mindset-web-defects/training-search-does-not-filter-grid-view.md)
-- [Short programs collapse button does not work](./Turkish-Reports/mindset-web-defects/short-programs-collapse-button-does-not-work.md)
-- [Training search does not filter the list view](./Turkish-Reports/mindset-web-defects/training-search-does-not-filter-list-view.md)
-
-**UI/UX**
-
-- [Short programs section is not centered](./Turkish-Reports/mindset-web-defects/short-programs-section-is-not-centered.md)
-
-#### Pupilica — 9 reports
-
-**Functional**
-
-- [Homepage slideshow does not advance automatically](./Turkish-Reports/pupilica-web-defects/homepage-slideshow-does-not-advance-automatically.md)
-- [Training list is sorted incorrectly from A to Z](./Turkish-Reports/pupilica-web-defects/training-list-sorted-incorrectly-a-to-z.md)
-- [Training list is sorted incorrectly from Z to A](./Turkish-Reports/pupilica-web-defects/training-list-sorted-incorrectly-z-to-a.md)
-- [LinkedIn profile link is missing from an instructor card](./Turkish-Reports/pupilica-web-defects/instructor-card-is-missing-linkedin-link.md)
-- [Instructor LinkedIn link redirects incorrectly](./Turkish-Reports/pupilica-web-defects/instructor-linkedin-link-redirects-incorrectly.md)
-- [Skills filter contains an unnamed option](./Turkish-Reports/pupilica-web-defects/skills-filter-contains-unnamed-option.md)
-- [Event type filter is unresponsive](./Turkish-Reports/pupilica-web-defects/event-type-filter-is-unresponsive.md)
-
-**UI/UX**
-
-- [Instructor cards have inconsistent proportions](./Turkish-Reports/pupilica-web-defects/instructor-cards-have-inconsistent-proportions.md)
-- [About page layout defect](./Turkish-Reports/pupilica-web-defects/about-page-layout-defect.md)
-
-#### Turkcell Geleceği Yazanlar — 5 reports
-
-**Functional**
-
-- [Facebook registration and login issue](./Turkish-Reports/turkcell-gelecegi-yazanlar-web-defects/facebook-registration-and-login-issue.md)
-- [Google registration and login issue](./Turkish-Reports/turkcell-gelecegi-yazanlar-web-defects/google-registration-and-login-issue.md)
-- [Job posting start-date filters do not work](./Turkish-Reports/turkcell-gelecegi-yazanlar-web-defects/job-posting-start-date-filters-do-not-work.md)
-- [Twitter registration and login issue](./Turkish-Reports/turkcell-gelecegi-yazanlar-web-defects/twitter-registration-and-login-issue.md)
-- [Registration form issue](./Turkish-Reports/turkcell-gelecegi-yazanlar-web-defects/registration-form-issue.md)
-
-#### Yemeksepeti — 2 reports
-
-**UI/UX**
-
-- [Order confirmation page interface issue](./Turkish-Reports/yemeksepeti-web-defects/order-confirmation-page-interface-issue.md)
-- [Order payment page interface issue](./Turkish-Reports/yemeksepeti-web-defects/order-payment-page-interface-issue.md)
-
-### PC Games
-
-#### Supervive — 4 reports
-
-**Localization**
-
-- [Language inconsistency in the character selection interface](./English-Reports/supervive-game-defects/Localization-Bug/language-inconsistency-in-character-selection-interface.md)
-- [Inconsistent language display in game map themes](./English-Reports/supervive-game-defects/Localization-Bug/map-theme-language-inconsistency.md)
-
-**UI/UX**
-
-- [Character unlock message does not fit on screen](./English-Reports/supervive-game-defects/UI-UX-Bug/character-unlock-message-inconsistency.md)
-- [Map theme description capitalization inconsistency](./English-Reports/supervive-game-defects/UI-UX-Bug/map-theme-description-capitalization-inconsistency.md)
-
-#### World of Warcraft: Cataclysm Classic — 1 report
-
-**Crash / Blocking**
-
-- [Crash while claiming the “Those Bears Up There” daily quest reward](./English-Reports/world-of-warcraft-cataclysm-classic-game-defects/Crash-Blocking%20Bug/those-bears-up-there-daily-quest-defect.md)
-
-## Featured reports
-
-- [Language inconsistency in the Supervive character selection interface](./English-Reports/supervive-game-defects/Localization-Bug/language-inconsistency-in-character-selection-interface.md)
-- [Hepsiburada payment options panel cannot be closed](./Turkish-Reports/hepsiburada-mobile-web-defects/payment-options-panel-cannot-be-closed.md)
-- [Supervive game defect collection](./English-Reports/supervive-game-defects/)
-- [World of Warcraft: Cataclysm Classic defect collection](./English-Reports/world-of-warcraft-cataclysm-classic-game-defects/)
+| ID | Defect | English | Türkçe |
+| --- | --- | --- | --- |
+| DEF-YS-001 | Order confirmation options appear in English on the Turkish page | [Read](./English-Reports/yemeksepeti-web-defects/order-confirmation-page-interface-issue.md) | [Oku](./Turkish-Reports/yemeksepeti-web-defects/order-confirmation-page-interface-issue.md) |
+| DEF-YS-002 | Payment page shows an English button in the Turkish interface | [Read](./English-Reports/yemeksepeti-web-defects/order-payment-page-interface-issue.md) | [Oku](./Turkish-Reports/yemeksepeti-web-defects/order-payment-page-interface-issue.md) |
 
 ## Reporting standard
 
-Each new report follows a consistent, developer-friendly structure:
+Reports include a defect ID, metadata, preconditions, reproduction steps, expected and actual results, test environment, and visual evidence. Impact and workaround fields distinguish documented information from details not recorded in the original session.
 
-1. Clear, observable title
-2. Defect metadata: ID, status, type, severity, priority, and reproducibility
-3. Complete test environment and build information
-4. Preconditions and test data
-5. Minimal numbered reproduction steps
-6. Expected and actual results
-7. User or business impact
-8. Screenshot, GIF, or video evidence
-9. Workaround and additional notes when relevant
-
-Use the [bug report template](./BUG_REPORT_TEMPLATE.md) for new reports.
+Use the [bug report template](./BUG_REPORT_TEMPLATE.md) for new reports. Create both language versions with the same relative path and defect ID, then link them to each other. Preserve UI labels, search inputs, error messages, build numbers, and timestamps so the scenario remains reproducible.
 
 ## Severity guide
 
-| Severity | Definition | Example impact |
-| --- | --- | --- |
-| Critical | Blocks a core flow, causes data loss, or makes the product unusable | Crash, payment failure, lost progress |
-| High | Major functionality fails and no reasonable workaround exists | Login or checkout flow blocked |
-| Medium | Functionality is impaired, but a workaround or alternate path exists | A panel cannot be closed normally |
-| Low | Cosmetic, wording, alignment, or minor usability issue | Localization or visual inconsistency |
+| Severity | Definition |
+| --- | --- |
+| Critical | Blocks a core flow, causes data loss, or makes the product unusable |
+| High | Major functionality fails and no reasonable workaround exists |
+| Medium | Functionality is impaired, but an alternate path may exist |
+| Low | Cosmetic, wording, alignment, or minor usability issue |
 
-> Severity describes technical and user impact. Priority describes how urgently the issue should be addressed and may depend on business context.
+Severity describes user and technical impact; priority describes urgency. This guide does not assign missing severity values retrospectively.
 
 ## Skills demonstrated
 
 - Exploratory and scenario-based testing
 - Reproduction and isolation of defects
-- Severity and impact assessment
 - Web, mobile web, and game testing
 - Environment and build documentation
 - Visual evidence collection
-- Clear communication for developers and stakeholders
+- Bilingual communication for developers and stakeholders
 
 ## Author
 
 **Mehmet Turgut Aksel** — QA & Test Automation Engineer
 
-- [GitHub Profile](https://github.com/mtaksel)
-- [Portfolio](https://mtaksel.github.io/my-portfolio/)
-- [LinkedIn](https://www.linkedin.com/in/mehmeturgutaksel/)
+[GitHub](https://github.com/mtaksel) · [Portfolio](https://mtaksel.github.io/my-portfolio/) · [LinkedIn](https://www.linkedin.com/in/mehmeturgutaksel/)

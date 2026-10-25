@@ -12,7 +12,7 @@
 | Platform | PC Game |
 | Evidence | Included in the report |
 
-[Back to Software Defect Portfolio](../../../README.md)
+[Back to portfolio](../../../README.md) · [Türkçe sürüm](../../../Turkish-Reports/supervive-game-defects/Localization-Bug/map-theme-language-inconsistency.md)
 
 ## Description
 - Supervive game has a different game themes. However, the displayed game modes or themes are shown in mixed languages, where one appears in Turkish and another in English.

@@ -1,18 +1,18 @@
 # "Satıcıya Sor" Butonuna Tıklayıp Login Sayfasında Yönlendirdikten Sonra Ürün Sayfasına Geri Dönme Sorunu
 <!-- standardized-defect-report -->
 
-| Field | Value |
+| Alan | Değer |
 | --- | --- |
-| Defect ID | DEF-HB-002 |
-| Status | Documented |
-| Type | Functional |
-| Severity | Not recorded |
-| Priority | Not recorded |
-| Reproducibility | Not recorded |
-| Platform | Mobile Web |
-| Evidence | Included in the report |
+| Hata Kimliği | DEF-HB-002 |
+| Durum | Raporlandı |
+| Tür | Fonksiyonel |
+| Önem Derecesi | Kaydedilmedi |
+| Öncelik | Kaydedilmedi |
+| Tekrarlanabilirlik | Kaydedilmedi |
+| Platform | Mobil Web |
+| Kanıt | Raporda yer alıyor |
 
-[Back to Software Defect Portfolio](../../README.md)
+[Ana sayfaya dön](../../README.md) · [English version](../../English-Reports/hepsiburada-mobile-web-defects/cannot-return-to-product-page-after-login-redirect.md)
 
 ## Ön Koşullar
 - Üye girişi yapılmamış olmalı
@@ -49,14 +49,14 @@
 
 *Test cihazı ekran çözünürlüğü:* 828x1792 px
 
-*Uygulamanın test edildiği browser:* Safari 17.6.1 
+*Uygulamanın test edildiği browser:* Safari 17.6.1
 
 *Sorunun Tekrarlanma Saati:* 06.09.2024 , 11:23
 
-## Impact
+## Etki
 
-Not formally assessed in the original test session.
+İlk test oturumunda resmi bir etki değerlendirmesi yapılmadı.
 
-## Workaround
+## Geçici Çözüm
 
-No workaround was documented during the original test session.
+İlk test oturumunda geçici çözüm belgelenmedi.

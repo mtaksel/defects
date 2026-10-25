@@ -1,18 +1,18 @@
 # Etkinlikler Sayfasındaki Etkinlik Türü Filtrelemesinin Tepkisizliği
 <!-- standardized-defect-report -->
 
-| Field | Value |
+| Alan | Değer |
 | --- | --- |
-| Defect ID | DEF-PU-008 |
-| Status | Documented |
-| Type | Functional |
-| Severity | Not recorded |
-| Priority | Not recorded |
-| Reproducibility | Not recorded |
+| Hata Kimliği | DEF-PU-008 |
+| Durum | Raporlandı |
+| Tür | Fonksiyonel |
+| Önem Derecesi | Kaydedilmedi |
+| Öncelik | Kaydedilmedi |
+| Tekrarlanabilirlik | Kaydedilmedi |
 | Platform | Web |
-| Evidence | Included in the report |
+| Kanıt | Raporda yer alıyor |
 
-[Back to Software Defect Portfolio](../../README.md)
+[Ana sayfaya dön](../../README.md) · [English version](../../English-Reports/pupilica-web-defects/event-type-filter-is-unresponsive.md)
 
 ## Ön Koşullar
 -
@@ -27,7 +27,7 @@
 4. Etkinlik Türü Filtrelemesindeki "Webinar" seçeneğine tıklanır.
 5. Filtrelenen seçeneğin sonuçları kontrol edilir.
 ## Ekran Görüntüleri
-![](images/etkinlikler-sayfasindaki-etkinlik-turu-filtrelemesi-tepkisizligi.gif) 
+![](images/etkinlikler-sayfasindaki-etkinlik-turu-filtrelemesi-tepkisizligi.gif)
 
 ## Beklenen Sonuç
 - Bir filtreleme seçeneği seçildiğinde, ilgili liste veya içerik filtrelenmeli ve sonuçlar seçilen kritere göre güncellenmelidir. Kullanıcı, filtreleme işleminin başarılı olduğunu görmeli ve içerik, seçilen filtreyle eşleşen sonuçları göstermelidir.
@@ -46,10 +46,10 @@
 
 *Sorunun Tekrarlanma Saati:* 07.09.2024 , 10:14
 
-## Impact
+## Etki
 
-Not formally assessed in the original test session.
+İlk test oturumunda resmi bir etki değerlendirmesi yapılmadı.
 
-## Workaround
+## Geçici Çözüm
 
-No workaround was documented during the original test session.
+İlk test oturumunda geçici çözüm belgelenmedi.

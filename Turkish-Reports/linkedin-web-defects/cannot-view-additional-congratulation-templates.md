@@ -1,18 +1,18 @@
 # "Daha Fazla Tebrik Şablonunu Görüntüleme Sorunu"
 <!-- standardized-defect-report -->
 
-| Field | Value |
+| Alan | Değer |
 | --- | --- |
-| Defect ID | DEF-LI-001 |
-| Status | Documented |
-| Type | Functional |
-| Severity | Not recorded |
-| Priority | Not recorded |
-| Reproducibility | Not recorded |
+| Hata Kimliği | DEF-LI-001 |
+| Durum | Raporlandı |
+| Tür | Fonksiyonel |
+| Önem Derecesi | Kaydedilmedi |
+| Öncelik | Kaydedilmedi |
+| Tekrarlanabilirlik | Kaydedilmedi |
 | Platform | Web |
-| Evidence | Included in the report |
+| Kanıt | Raporda yer alıyor |
 
-[Back to Software Defect Portfolio](../../README.md)
+[Ana sayfaya dön](../../README.md) · [English version](../../English-Reports/linkedin-web-defects/cannot-view-additional-congratulation-templates.md)
 
 ## Ön Koşullar
 - LinkedIn hesabına giriş yapılmış olmalı.
@@ -46,10 +46,10 @@
 
 *Sorunun Tekrarlanma Saati:* 24.10.2024 , 15:32
 
-## Impact
+## Etki
 
-Not formally assessed in the original test session.
+İlk test oturumunda resmi bir etki değerlendirmesi yapılmadı.
 
-## Workaround
+## Geçici Çözüm
 
-No workaround was documented during the original test session.
+İlk test oturumunda geçici çözüm belgelenmedi.

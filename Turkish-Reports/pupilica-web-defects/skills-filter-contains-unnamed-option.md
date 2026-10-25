@@ -1,18 +1,18 @@
 # Etkinlikler Sayfasındaki Beceriler Filtrelemesindeki İsimsiz Filtreleme Seçeneği
 <!-- standardized-defect-report -->
 
-| Field | Value |
+| Alan | Değer |
 | --- | --- |
-| Defect ID | DEF-PU-007 |
-| Status | Documented |
-| Type | Functional |
-| Severity | Not recorded |
-| Priority | Not recorded |
-| Reproducibility | Not recorded |
+| Hata Kimliği | DEF-PU-007 |
+| Durum | Raporlandı |
+| Tür | Fonksiyonel |
+| Önem Derecesi | Kaydedilmedi |
+| Öncelik | Kaydedilmedi |
+| Tekrarlanabilirlik | Kaydedilmedi |
 | Platform | Web |
-| Evidence | Included in the report |
+| Kanıt | Raporda yer alıyor |
 
-[Back to Software Defect Portfolio](../../README.md)
+[Ana sayfaya dön](../../README.md) · [English version](../../English-Reports/pupilica-web-defects/skills-filter-contains-unnamed-option.md)
 
 ## Ön Koşullar
 -
@@ -26,7 +26,7 @@
 3. Etkinlikler Sayfasina yönlendirildiği doğrulanır
 4. Beceri filtrelemesindeki isimsiz filtreleme seçeneği görüntülenir.
 ## Ekran Görüntüleri
-![](images/etkinlikler-sayfasi-beceriler-filtrelemesi-sorunu.gif) 
+![](images/etkinlikler-sayfasi-beceriler-filtrelemesi-sorunu.gif)
 
 ## Beklenen Sonuç
 - Tüm filtreleme seçeneklerinin, kullanıcılara neyi filtreleyeceklerini açıkça belirten bir etiket ya da başlığa sahip olması gerekir. Her filtre seçeneği anlamlı ve kullanımı kolay olmalı, isimsiz seçenek olmamalıdır.
@@ -45,10 +45,10 @@
 
 *Sorunun Tekrarlanma Saati:* 07.09.2024 , 10:00
 
-## Impact
+## Etki
 
-Not formally assessed in the original test session.
+İlk test oturumunda resmi bir etki değerlendirmesi yapılmadı.
 
-## Workaround
+## Geçici Çözüm
 
-No workaround was documented during the original test session.
+İlk test oturumunda geçici çözüm belgelenmedi.

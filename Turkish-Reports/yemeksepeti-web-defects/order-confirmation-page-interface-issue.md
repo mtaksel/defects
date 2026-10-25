@@ -1,18 +1,18 @@
 
 <!-- standardized-defect-report -->
 
-| Field | Value |
+| Alan | Değer |
 | --- | --- |
-| Defect ID | DEF-YS-001 |
-| Status | Documented |
-| Type | UI/UX |
-| Severity | Not recorded |
-| Priority | Not recorded |
-| Reproducibility | Not recorded |
+| Hata Kimliği | DEF-YS-001 |
+| Durum | Raporlandı |
+| Tür | UI/UX |
+| Önem Derecesi | Kaydedilmedi |
+| Öncelik | Kaydedilmedi |
+| Tekrarlanabilirlik | Kaydedilmedi |
 | Platform | Web |
-| Evidence | Included in the report |
+| Kanıt | Raporda yer alıyor |
 
-[â† Back to Software Defect Portfolio](../../README.md)
+[Ana sayfaya dön](../../README.md) · [English version](../../English-Reports/yemeksepeti-web-defects/order-confirmation-page-interface-issue.md)
 # Sipariş Onaylama Sayfası Arayüz Sorunu
 ## Ön Koşullar
 -Yemeksepeti hesabının olması
@@ -29,7 +29,7 @@
 . "Sepeti Onayla" butonuna tıklanır.<br>
 
 ## Ekran Görüntüleri
-![](images/siparis_onay.png) 
+![](images/siparis_onay.png)
 
 ## Beklenen Sonuç
 - Sipariş onay sayfasında "Kapıya bırak" , "Varınca beni ara" , "Zili çal" kısımları Türkçe dilinde olmalı
@@ -48,10 +48,10 @@
 
 *Sorunun Tekrarlanma Saati:* 01.07.2024 , 15:34
 
-## Impact
+## Etki
 
-Not formally assessed in the original test session.
+İlk test oturumunda resmi bir etki değerlendirmesi yapılmadı.
 
-## Workaround
+## Geçici Çözüm
 
-No workaround was documented during the original test session.
+İlk test oturumunda geçici çözüm belgelenmedi.

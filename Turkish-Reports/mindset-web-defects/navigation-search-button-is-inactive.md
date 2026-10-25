@@ -1,18 +1,18 @@
 # Navigasyon Menu Altındaki Arama Çubuğunda Bulunan Arama Butonunun Pasif Olması Sorunu
 <!-- standardized-defect-report -->
 
-| Field | Value |
+| Alan | Değer |
 | --- | --- |
-| Defect ID | DEF-MS-001 |
-| Status | Documented |
-| Type | Functional |
-| Severity | Not recorded |
-| Priority | Not recorded |
-| Reproducibility | Not recorded |
+| Hata Kimliği | DEF-MS-001 |
+| Durum | Raporlandı |
+| Tür | Fonksiyonel |
+| Önem Derecesi | Kaydedilmedi |
+| Öncelik | Kaydedilmedi |
+| Tekrarlanabilirlik | Kaydedilmedi |
 | Platform | Web |
-| Evidence | Included in the report |
+| Kanıt | Raporda yer alıyor |
 
-[Back to Software Defect Portfolio](../../README.md)
+[Ana sayfaya dön](../../README.md) · [English version](../../English-Reports/mindset-web-defects/navigation-search-button-is-inactive.md)
 
 ## Ön Koşullar
 -
@@ -28,7 +28,7 @@
 5) Klavyeden Enter tuşuna basılır.
 
 ## Ekran Görüntüleri
-![](images/arama-cubugu-tepkisizlik.gif) 
+![](images/arama-cubugu-tepkisizlik.gif)
 
 ## Beklenen Sonuç
 - Arama çubuğuna girilen metinin Büyüteç butonuna ya da Enter tuşuna basılarak arama sonuçlarını gösteren sayfaya yönlendirmeli.
@@ -47,10 +47,10 @@
 
 *Sorunun Tekrarlanma Saati:* 26.08.2024 , 03:34
 
-## Impact
+## Etki
 
-Not formally assessed in the original test session.
+İlk test oturumunda resmi bir etki değerlendirmesi yapılmadı.
 
-## Workaround
+## Geçici Çözüm
 
-No workaround was documented during the original test session.
+İlk test oturumunda geçici çözüm belgelenmedi.

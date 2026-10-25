@@ -12,7 +12,7 @@
 | Platform | PC Game |
 | Evidence | Included in the report |
 
-[Back to Software Defect Portfolio](../../../README.md)
+[Back to portfolio](../../../README.md) · [Türkçe sürüm](../../../Turkish-Reports/world-of-warcraft-cataclysm-classic-game-defects/Crash-Blocking%20Bug/those-bears-up-there-daily-quest-defect.md)
 
 ## Description
 - After completing the quest, when the player clicks the button to claim the rewards, the game freezes.
@@ -49,7 +49,7 @@
 
 *Battle.net Client Version: 2.29.0 (64-bit)
 
-*World Of Warcraft Cataclym Classic Version: 4.4.0 - September 24, 2024 Hotfix patch (64-bit) 
+*World Of Warcraft Cataclym Classic Version: 4.4.0 - September 24, 2024 Hotfix patch (64-bit)
 
 *Issue Reproduction Time: 29.09.2024, 23:27
 

@@ -1,4 +1,4 @@
-# Character Unlock Screen Text Message Not Fit On Screen
+# Map Theme Description Capitalization Inconsistency
 <!-- standardized-defect-report -->
 
 | Field | Value |
@@ -12,7 +12,7 @@
 | Platform | PC Game |
 | Evidence | Included in the report |
 
-[Back to Software Defect Portfolio](../../../README.md)
+[Back to portfolio](../../../README.md) · [Türkçe sürüm](../../../Turkish-Reports/supervive-game-defects/UI-UX-Bug/map-theme-description-capitalization-inconsistency.md)
 
 ## Description
 - The text for the theme “Doğrudan Uçak” is displayed in all uppercase letters for the description, while other themes typically use lowercase descriptions. This inconsistency can affect the visual coherence of the user interface.
@@ -25,7 +25,7 @@
 2. Start Supervive.
 3. Go Queue to find the game.
 4. Wait for the game to find a match.
-5) Select a character 
+5) Select a character
 6) Access the game map and observe the theme name “Doğrudan Uçak” and its description below.
 
 

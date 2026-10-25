@@ -1,18 +1,18 @@
 # Eğitmen Kartındaki LinkedIn Profil Bağlantısının Yanlış Yönlendirmesi
 <!-- standardized-defect-report -->
 
-| Field | Value |
+| Alan | Değer |
 | --- | --- |
-| Defect ID | DEF-PU-004 |
-| Status | Documented |
-| Type | Functional |
-| Severity | Not recorded |
-| Priority | Not recorded |
-| Reproducibility | Not recorded |
+| Hata Kimliği | DEF-PU-004 |
+| Durum | Raporlandı |
+| Tür | Fonksiyonel |
+| Önem Derecesi | Kaydedilmedi |
+| Öncelik | Kaydedilmedi |
+| Tekrarlanabilirlik | Kaydedilmedi |
 | Platform | Web |
-| Evidence | Included in the report |
+| Kanıt | Raporda yer alıyor |
 
-[Back to Software Defect Portfolio](../../README.md)
+[Ana sayfaya dön](../../README.md) · [English version](../../English-Reports/pupilica-web-defects/instructor-linkedin-link-redirects-incorrectly.md)
 
 ## Ön Koşullar
 -
@@ -28,7 +28,7 @@
 5. Sayfa aşağıya kaydırılır ve "  Barış Gürkaş  " isimli eğitmenin kartı doğrulanır.
 6. "  Barış Gürkaş  " isimli eğitmenin Linkedin Buttonuna basılır
 ## Ekran Görüntüleri
-![](images/egitmenler-sayfasi-egitmen-profilinin-yanlis-yonlendirilmesi.gif) 
+![](images/egitmenler-sayfasi-egitmen-profilinin-yanlis-yonlendirilmesi.gif)
 
 ## Beklenen Sonuç
 - Her eğitmen profilinin, LinkedIn profil bağlantısı, tıklanabilir bir buton ile gösterilmeli ve kullanıcılar bu buton üzerinden ilgili eğitmenin LinkedIn sayfasına yönlendirilmelidir.
@@ -47,10 +47,10 @@
 
 *Sorunun Tekrarlanma Saati:* 06.09.2024 , 20:24
 
-## Impact
+## Etki
 
-Not formally assessed in the original test session.
+İlk test oturumunda resmi bir etki değerlendirmesi yapılmadı.
 
-## Workaround
+## Geçici Çözüm
 
-No workaround was documented during the original test session.
+İlk test oturumunda geçici çözüm belgelenmedi.
